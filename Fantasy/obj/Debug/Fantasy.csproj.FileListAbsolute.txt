@@ -1,0 +1,7 @@
+C:\Users\wuyetz\source\repos\Fantasy\Fantasy\bin\Debug\Fantasy.exe.config
+C:\Users\wuyetz\source\repos\Fantasy\Fantasy\bin\Debug\Fantasy.exe
+C:\Users\wuyetz\source\repos\Fantasy\Fantasy\bin\Debug\Fantasy.pdb
+C:\Users\wuyetz\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.csprojResolveAssemblyReference.cache
+C:\Users\wuyetz\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.csproj.CoreCompileInputs.cache
+C:\Users\wuyetz\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.exe
+C:\Users\wuyetz\source\repos\Fantasy\Fantasy\obj\Debug\Fantasy.pdb
