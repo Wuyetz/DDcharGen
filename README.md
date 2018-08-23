@@ -1,4 +1,4 @@
-# DDcharacter
+# DDcharGen
 Dungeons and Dragons random charachter generator in C#
 
 Creates random Dungeons and Dragons character (race,class,gender,alignment). I adapted it from Dungeons and Dragons party generator I 
